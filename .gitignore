@@ -1,0 +1,5 @@
+# Credenciais Firebase — nunca versionar
+keys/*.json
+
+# Dependências Node
+node/node_modules/
